@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fbe3059-af02-4c8f-afd0-d968daa4c55b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1l9CPoFCNmEUMsXAZkcdE19R6wg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../node_modules" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fbe3059-af02-4c8f-afd0-d968daa4c55b" name="Default Changelist" comment="" />
+      <created>1606999898383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606999898383</updated>
+      <workItem from="1606999899683" duration="3106000" />
+      <workItem from="1607022466795" duration="2203000" />
+      <workItem from="1607028105204" duration="6530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="138" key="FileChooserDialogImpl" timestamp="1607082425982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="714" y="138" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607082425981" />
+    <state x="263" y="98" key="IDE.errors.dialog" timestamp="1607021774600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="98" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1607021774600" />
+  </component>
+</project>
